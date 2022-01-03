@@ -14,5 +14,12 @@
   <img align="center" alt="Jorge-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="Jorge-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />
 </div>
+  
+---
+
+[![Gmail Badge](https://img.shields.io/badge/jorgelucasalm@gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:jorgelucasalm@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/jorge.lucasalm-blue?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jorgelucasalm/)](https://www.linkedin.com/in/jorgelucasalm)
+  
 
 
+ 
