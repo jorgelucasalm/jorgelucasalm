@@ -1,9 +1,10 @@
-### Hi there 👋
+### Hi there, I'm Jorge Lucas 👋
 
-<!--
-**jorgelucasalm/jorgelucasalm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+<div align="center">
+  <a href="https://github.com/jorgelucasalm">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jorgelucasalm&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgelucasalm&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +14,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
